@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.util.Arrays;
+
 public class twoDArray {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
